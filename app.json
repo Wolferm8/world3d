@@ -8,6 +8,6 @@
     "userInterfaceStyle": "dark",
     "android": { "package": "com.wolferm78.world3d" },
     "ios": { "bundleIdentifier": "com.wolferm78.world3d" },
-    "extra": { "eas": { "projectId": "fc1983ac-8469-422a-b7ac-527839e8a0b9" } }
+    "extra": { "eas": { "projectId": "fc1983ac-8469-422a-b7ac-527839e0a0b9" } }
   }
 }
